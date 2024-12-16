@@ -1,0 +1,335 @@
+[
+    {
+      "id": 101,
+      "category": "Ladoo",
+      "foodName": "Boondi Ladoo",
+      "calories": 150,
+      "foodType": "Sweet",
+      "price": 250,
+      "discountedPrice": 220,
+      "description": "Sweet and crispy round balls.",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/1/LC/JU/GA/36473839/desi-boondi-ladoo-500x500.jpg"
+    },
+    {
+      "id": 102,
+      "category": "Ladoo",
+      "foodName": "Rava Ladoo",
+      "calories": 170,
+      "foodType": "Sweet",
+      "price": 275,
+      "discountedPrice": 250,
+      "description": "Soft semolina sweets.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0E2MBHu_msRKmSoEZiiSgg15cVQEgF9TkRQ&s"
+    },
+    {
+      "id": 103,
+      "category": "Ladoo",
+      "foodName": "Coconut Ladoo",
+      "calories": 160,
+      "foodType": "Sweet",
+      "price": 260,
+      "discountedPrice": 230,
+      "description": "Coconut-based sweet treat.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlESfTQwVAI0x-IgVa02izdjW3-3yhxRQep3xZXH0MrMio9GValL1_boYuiy-3M7X6ud4&usqp=CAU"
+    },
+    {
+      "id": 104,
+      "category": "Ladoo",
+      "foodName": "Besan Ladoo",
+      "calories": 180,
+      "foodType": "Sweet",
+      "price": 280,
+      "discountedPrice": 250,
+      "description": "Chickpea flour laddoos.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEw7IVo_s4kq88FUamr-7HoEYiZZgWUdtow&s"
+    },
+    {
+      "id": 201,
+      "category": "Namkeen",
+      "foodName": "Aloo Bhujia",
+      "calories": 180,
+      "foodType": "Savory Snack",
+      "price": 300,
+      "discountedPrice": 270,
+      "description": "Crispy potato snack.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHaWNZhrXE8N9rn0KkaUMTmcIUmK4qeaYFw&s"
+    },
+    {
+      "id": 202,
+      "category": "Namkeen",
+      "foodName": "Sev",
+      "calories": 200,
+      "foodType": "Savory Snack",
+      "price": 320,
+      "discountedPrice": 290,
+      "description": "Thin, crispy fried snack.",
+      "img": "https://www.seema.com/wp-content/uploads/2022/06/Sev-Recipe.jpg"
+    },
+    {
+      "id": 203,
+      "category": "Namkeen",
+      "foodName": "Chana Jor Garam",
+      "calories": 170,
+      "foodType": "Savory Snack",
+      "price": 290,
+      "discountedPrice": 260,
+      "description": "Spicy roasted chickpeas.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFW3vf-pUTuoGdXUEzI0EclaFChos37GNB8YC7yZ-Tiy-zH_MOxRex5jVtOvoT9ck2naM&usqp=CAU"
+    },
+    {
+      "id": 204,
+      "category": "Namkeen",
+      "foodName": "Papdi",
+      "calories": 220,
+      "foodType": "Savory Snack",
+      "price": 350,
+      "discountedPrice": 310,
+      "description": "Crispy fried flour discs.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEKYzz8TR42FKPH0uFpcByVUo9YB1wR7ZGjDlS1N-J3UkLhHaDbNTSbgER5CtyzOIY3Q&usqp=CAU"
+    },
+    {
+      "id": 301,
+      "category": "Chips",
+      "foodName": "Potato Chips",
+      "calories": 150,
+      "foodType": "Snack",
+      "price": 150,
+      "discountedPrice": 130,
+      "description": "Crunchy classic potato chips.",
+      "img": "https://m.media-amazon.com/images/I/416dL64X0OS.jpg"
+    },
+    {
+      "id": 302,
+      "category": "Chips",
+      "foodName": "Tortilla Chips",
+      "calories": 140,
+      "foodType": "Snack",
+      "price": 170,
+      "discountedPrice": 150,
+      "description": "Crispy corn tortilla chips.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0JmDZ9WeVeLDzsnBocttMth59hsjUwDLsnr9eV078wOayaiIDAh2OzVFC6tnF0yD6_0&usqp=CAU"
+    },
+    {
+      "id": 303,
+      "category": "Chips",
+      "foodName": "Vegetable Chips",
+      "calories": 160,
+      "foodType": "Snack",
+      "price": 180,
+      "discountedPrice": 160,
+      "description": "Mixed veggie chips.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSISSc5H0bp4hKzyZdTwyQ4u9HW-WEWUOvYBg&s"
+    },
+    {
+      "id": 304,
+      "category": "Chips",
+      "foodName": "Sweet Potato Chips",
+      "calories": 170,
+      "foodType": "Snack",
+      "price": 200,
+      "discountedPrice": 180,
+      "description": "Sweet, crunchy sweet potato chips.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGD_ZZALV1p3FM348wwS5QX1IfyREedAAZeg&s"
+    },
+    {
+      "id": 401,
+      "category": "Pastries",
+      "foodName": "Chocolate Cake",
+      "calories": 350,
+      "foodType": "Pastry",
+      "price": 400,
+      "discountedPrice": 360,
+      "description": "Decadent chocolate cake.",
+      "img": "https://m.media-amazon.com/images/I/41H3frNRw6L._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 402,
+      "category": "Pastries",
+      "foodName": "Fruit Tart",
+      "calories": 290,
+      "foodType": "Pastry",
+      "price": 380,
+      "discountedPrice": 340,
+      "description": "Crispy tart with fresh fruits.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsi-wX_0g3J8sv2cvpinup33XHDHhyDVZvX7l7-I8zJ1cfrXgxiGI2oh7SPZXEWedZho&usqp=CAU"
+    },
+    {
+      "id": 403,
+      "category": "Pastries",
+      "foodName": "Cheesecake",
+      "calories": 400,
+      "foodType": "Pastry",
+      "price": 450,
+      "discountedPrice": 400,
+      "description": "Rich and creamy cheesecake.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagk9IaWArE8dc0X0S4LFW1Ze6oJK7quNR-WoFx3PaFFZfbPdDESrYKo8B7NLEupvt-XQ&usqp=CAU"
+    },
+    {
+      "id": 404,
+      "category": "Pastries",
+      "foodName": "Brownie",
+      "calories": 300,
+      "foodType": "Pastry",
+      "price": 350,
+      "discountedPrice": 320,
+      "description": "Fudgy, chocolatey brownie.",
+      "img": "https://www.thermo.kitchen/wp-content/uploads/2021/11/Chocolate-Brownies-LR.jpg"
+    },
+
+       
+        {
+            "id": 501,
+            "category": "Breakfast Items",
+            "foodName": "Pancakes",
+            "calories": 350,
+            "foodType": "Breakfast",
+            "price": 500,
+            "discountedPrice": 450,
+            "description": "Fluffy and delicious pancakes.",
+            "img": "https://www.allrecipes.com/thmb/FE0PiuuR0Uh06uVh1c2AsKjRGbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-Good-old-Fashioned-Pancakes-mfs_002-0e249c95678f446291ebc9408ae64c05.jpg"
+        },
+        {
+            "id": 502,
+            "category": "Breakfast Items",
+            "foodName": "Waffles",
+            "calories": 400,
+            "foodType": "Breakfast",
+            "price": 550,
+            "discountedPrice": 500,
+            "description": "Crispy and golden waffles.",
+            "img": "https://bakingitbeautiful.com/wp-content/uploads/the-best-homemade-waffles-3.jpg"
+        },
+        {
+            "id": 503,
+            "category": "Breakfast Items",
+            "foodName": "French Toast",
+            "calories": 320,
+            "foodType": "Breakfast",
+            "price": 450,
+            "discountedPrice": 400,
+            "description": "Classic French toast with syrup.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWJtcU97VAyQxi7lNacY6f7otOlOTLgSYRdN4iJccmJGXvQa7ahn3TMn0rtO8fmBwcrQ&usqp=CAU"
+        },
+        {
+            "id": 504,
+            "category": "Breakfast Items",
+            "foodName": "Granola Bar",
+            "calories": 200,
+            "foodType": "Breakfast",
+            "price": 200,
+            "discountedPrice": 180,
+            "description": "Healthy peanut butter granola bar.",
+            "img": "https://www.inspiredtaste.net/wp-content/uploads/2022/08/Peanut-Butter-Granola-Bars-3-1200.jpg"
+        },
+        {
+            "id": 701,
+            "category": "Fruit Snacks",
+            "foodName": "Dried Mango",
+            "calories": 120,
+            "foodType": "Snack",
+            "price": 250,
+            "discountedPrice": 200,
+            "description": "Sweet and chewy dried mango.",
+            "img": "https://keralaspicecart.com/wp-content/uploads/2021/06/dried-mango-slices-500x500-1.jpg"
+        },
+        {
+            "id": 702,
+            "category": "Fruit Snacks",
+            "foodName": "Apple Chips",
+            "calories": 100,
+            "foodType": "Snack",
+            "price": 220,
+            "discountedPrice": 200,
+            "description": "Crispy and light apple chips.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSp2iy38x4yVCWYuYg0imbcb-siEW_CnyVA&s"
+        },
+        {
+            "id": 703,
+            "category": "Fruit Snacks",
+            "foodName": "Banana Chips",
+            "calories": 140,
+            "foodType": "Snack",
+            "price": 280,
+            "discountedPrice": 250,
+            "description": "Crispy and crunchy banana chips.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswJHyM4nJt7CIpAuZ2YHanO6NjuREZY-iDA&s"
+        },
+        {
+            "id": 801,
+            "category": "Cookies",
+            "foodName": "Chocolate Chip Cookie",
+            "calories": 250,
+            "foodType": "Cookie",
+            "price": 175,
+            "discountedPrice": 150,
+            "description": "Soft and chewy chocolate chip cookie.",
+            "img": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2022/02/Chocolate-chip-cookies-14.jpg?im=AspectCrop=(16,9);Resize,width=742;"
+        },
+        {
+            "id": 802,
+            "category": "Cookies",
+            "foodName": "Oatmeal Raisin Cookie",
+            "calories": 200,
+            "foodType": "Cookie",
+            "price": 160,
+            "discountedPrice": 140,
+            "description": "Chewy oatmeal cookie with raisins.",
+            "img": "https://www.savingdessert.com/wp-content/uploads/2020/01/Oatmeal-Raisin-Cookies-5.jpg"
+        },
+        {
+            "id": 803,
+            "category": "Cookies",
+            "foodName": "Peanut Butter Cookie",
+            "calories": 270,
+            "foodType": "Cookie",
+            "price": 190,
+            "discountedPrice": 170,
+            "description": "Rich peanut butter flavor.",
+            "img": "https://bakeorbreak.com/wp-content/uploads/2022/08/peanut_butter_cookies3076-540x720.jpg"
+        },
+        {
+            "id": 804,
+            "category": "Cookies",
+            "foodName": "Sugar Cookie",
+            "calories": 220,
+            "foodType": "Cookie",
+            "price": 170,
+            "discountedPrice": 150,
+            "description": "Soft and sweet sugar cookie.",
+            "img": "https://www.cookingclassy.com/wp-content/uploads/2020/02/soft-sugar-cookies-5-500x500.jpg"
+        },
+        {
+            "id": 901,
+            "category": "Muffins",
+            "foodName": "Blueberry Muffin",
+            "calories": 210,
+            "foodType": "Muffin",
+            "price": 250,
+            "discountedPrice": 220,
+            "description": "Fluffy muffin with fresh blueberries.",
+            "img": "https://happilyunprocessed.com/wp-content/uploads/2023/05/homemade-blueberry-muffins-1.jpg"
+        },
+        {
+            "id": 902,
+            "category": "Muffins",
+            "foodName": "Chocolate Muffin",
+            "calories": 250,
+            "foodType": "Muffin",
+            "price": 280,
+            "discountedPrice": 250,
+            "description": "Rich and decadent chocolate muffin.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRecEfX0hSxykk5ttSAc7JIGteTRLcxP8fK6g&s"
+        },
+        {
+            "id": 903,
+            "category": "Muffins",
+            "foodName": "Banana Muffin",
+            "calories": 230,
+            "foodType": "Muffin",
+            "price": 260,
+            "discountedPrice": 230,
+            "description": "Soft muffin with mashed bananas.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwalTjJd6XUcVl1JvIKRyeMi9fNiMa8kDXSw&s"
+        }
+    ]
+    

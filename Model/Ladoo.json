@@ -1,0 +1,46 @@
+[
+    {
+    "id": 101,
+    "category": "Ladoo",
+    "foodName": "Boondi Ladoo",
+    "calories": 150,
+    "foodType": "Sweet",
+    "price": 250,
+    "discountedPrice": 220,
+    "description": "Sweet and crispy round balls.",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2021/1/LC/JU/GA/36473839/desi-boondi-ladoo-500x500.jpg"
+  },
+  {
+    "id": 102,
+    "category": "Ladoo",
+    "foodName": "Rava Ladoo",
+    "calories": 170,
+    "foodType": "Sweet",
+    "price": 275,
+    "discountedPrice": 250,
+    "description": "Soft semolina sweets.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0E2MBHu_msRKmSoEZiiSgg15cVQEgF9TkRQ&s"
+  },
+  {
+    "id": 103,
+    "category": "Ladoo",
+    "foodName": "Coconut Ladoo",
+    "calories": 160,
+    "foodType": "Sweet",
+    "price": 260,
+    "discountedPrice": 230,
+    "description": "Coconut-based sweet treat.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlESfTQwVAI0x-IgVa02izdjW3-3yhxRQep3xZXH0MrMio9GValL1_boYuiy-3M7X6ud4&usqp=CAU"
+  },
+  {
+    "id": 104,
+    "category": "Ladoo",
+    "foodName": "Besan Ladoo",
+    "calories": 180,
+    "foodType": "Sweet",
+    "price": 280,
+    "discountedPrice": 250,
+    "description": "Chickpea flour laddoos.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEw7IVo_s4kq88FUamr-7HoEYiZZgWUdtow&s"
+  }
+]

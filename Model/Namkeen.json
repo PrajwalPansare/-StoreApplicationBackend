@@ -1,0 +1,46 @@
+[
+    {
+    "id": 201,
+    "category": "Namkeen",
+    "foodName": "Aloo Bhujia",
+    "calories": 180,
+    "foodType": "Savory Snack",
+    "price": 300,
+    "discountedPrice": 270,
+    "description": "Crispy potato snack.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHaWNZhrXE8N9rn0KkaUMTmcIUmK4qeaYFw&s"
+  },
+  {
+    "id": 202,
+    "category": "Namkeen",
+    "foodName": "Sev",
+    "calories": 200,
+    "foodType": "Savory Snack",
+    "price": 320,
+    "discountedPrice": 290,
+    "description": "Thin, crispy fried snack.",
+    "img": "https://www.seema.com/wp-content/uploads/2022/06/Sev-Recipe.jpg"
+  },
+  {
+    "id": 203,
+    "category": "Namkeen",
+    "foodName": "Chana Jor Garam",
+    "calories": 170,
+    "foodType": "Savory Snack",
+    "price": 290,
+    "discountedPrice": 260,
+    "description": "Spicy roasted chickpeas.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFW3vf-pUTuoGdXUEzI0EclaFChos37GNB8YC7yZ-Tiy-zH_MOxRex5jVtOvoT9ck2naM&usqp=CAU"
+  },
+  {
+    "id": 204,
+    "category": "Namkeen",
+    "foodName": "Papdi",
+    "calories": 220,
+    "foodType": "Savory Snack",
+    "price": 350,
+    "discountedPrice": 310,
+    "description": "Crispy fried flour discs.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEKYzz8TR42FKPH0uFpcByVUo9YB1wR7ZGjDlS1N-J3UkLhHaDbNTSbgER5CtyzOIY3Q&usqp=CAU"
+  }
+]

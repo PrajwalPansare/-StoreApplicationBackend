@@ -1,0 +1,46 @@
+[
+    {
+    "id": 301,
+    "category": "Chips",
+    "foodName": "Potato Chips",
+    "calories": 150,
+    "foodType": "Snack",
+    "price": 150,
+    "discountedPrice": 130,
+    "description": "Crunchy classic potato chips.",
+    "img": "https://m.media-amazon.com/images/I/416dL64X0OS.jpg"
+  },
+  {
+    "id": 302,
+    "category": "Chips",
+    "foodName": "Tortilla Chips",
+    "calories": 140,
+    "foodType": "Snack",
+    "price": 170,
+    "discountedPrice": 150,
+    "description": "Crispy corn tortilla chips.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0JmDZ9WeVeLDzsnBocttMth59hsjUwDLsnr9eV078wOayaiIDAh2OzVFC6tnF0yD6_0&usqp=CAU"
+  },
+  {
+    "id": 303,
+    "category": "Chips",
+    "foodName": "Vegetable Chips",
+    "calories": 160,
+    "foodType": "Snack",
+    "price": 180,
+    "discountedPrice": 160,
+    "description": "Mixed veggie chips.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSISSc5H0bp4hKzyZdTwyQ4u9HW-WEWUOvYBg&s"
+  },
+  {
+    "id": 304,
+    "category": "Chips",
+    "foodName": "Sweet Potato Chips",
+    "calories": 170,
+    "foodType": "Snack",
+    "price": 200,
+    "discountedPrice": 180,
+    "description": "Sweet, crunchy sweet potato chips.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGD_ZZALV1p3FM348wwS5QX1IfyREedAAZeg&s"
+  }
+]
