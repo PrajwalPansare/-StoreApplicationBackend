@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const Routes = require('./Routes/index'); // Ensure this imports the router correctly
 
-const PORT = 2400;
+const PORT = process.env.PORT || 2400;
 
 app.use(express.json());
 
